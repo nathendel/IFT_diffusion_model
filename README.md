@@ -1,2 +1,5 @@
 # IFT_diffusion_model
 These are the files for my PhD project, developing the diffusion model of flagellar length control.
+
+ift_diffusion_model_nlh.py is the agent-based simulation python program that uses object-oriented programming to simuluate the theory.
+diffusion_model_tutorial.ipynb is the tutorial file on how to use ift_diffusion_model_nlh.py. The tutorial file is still under development.
